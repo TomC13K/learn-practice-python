@@ -1,1 +1,1 @@
-# learn-practice-python
+# Python practice repo
